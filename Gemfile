@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
 
-gem 'elephrame', '~> 0.3.7'
+gem 'elephrame', '~> 0.4.1'
